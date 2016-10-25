@@ -13,4 +13,8 @@ function draw() {
   translate(300,200);
   rect(0,0,75,75);
   pop()
+  push()
+  translate(100,100);
+  rect(0,0,75,75);
+  pop()
 }
